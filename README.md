@@ -1,6 +1,6 @@
 ### Hi there, I am Miftah 👋
  🔭 I’m interst in Web Programmer <br>
- 🌱 I’m currently learning FastAPI <br>
+ 🌱 I’m currently learning API <br>
  📫 How to reach me: Reach out to me directly through my Instagram or LinkedIn<br>
 😄 Pronouns: she/her <br>
 
